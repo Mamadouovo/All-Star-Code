@@ -15,7 +15,7 @@ def square():
     turnBy(90)
     forward(speed, second)
     penUp()
-    forward(2, 2)
+    forward(1, 1)
 square()
 i=0
 while i<4:
